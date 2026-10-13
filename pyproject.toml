@@ -1,0 +1,9 @@
+[project]
+name = "lora-intents"
+version = "0.1.0"
+description = "How much labelled data a LoRA adapter needs: Banking77 learning curves on a laptop CPU"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,29 @@
+{"method": "tfidf", "k": 5, "seed": 0, "n_train": 385, "accuracy": 0.5659, "macro_f1": 0.5664, "train_s": 2.1, "trainable_params": 226149, "ms_per_message": 3.07}
+{"method": "frozen", "k": 5, "seed": 0, "n_train": 385, "accuracy": 0.8078, "macro_f1": 0.8074, "train_s": 16.7, "trainable_params": 29645, "ms_per_message": 69.07}
+{"method": "lora", "k": 5, "seed": 0, "n_train": 385, "accuracy": 0.8127, "macro_f1": 0.812, "train_s": 997.4, "trainable_params": 361421, "ms_per_message": 33.49, "saved_bytes": 1461814, "steps": 390, "epochs": 30}
+{"method": "tfidf", "k": 5, "seed": 1, "n_train": 385, "accuracy": 0.5282, "macro_f1": 0.5186, "train_s": 1.1, "trainable_params": 230538, "ms_per_message": 1.81}
+{"method": "frozen", "k": 5, "seed": 1, "n_train": 385, "accuracy": 0.8049, "macro_f1": 0.803, "train_s": 9.7, "trainable_params": 29645, "ms_per_message": 31.8}
+{"method": "lora", "k": 5, "seed": 1, "n_train": 385, "accuracy": 0.7581, "macro_f1": 0.7557, "train_s": 601.0, "trainable_params": 361421, "ms_per_message": 17.35, "saved_bytes": 1461814, "steps": 390, "epochs": 30}
+{"method": "tfidf", "k": 5, "seed": 2, "n_train": 385, "accuracy": 0.5406, "macro_f1": 0.5341, "train_s": 0.5, "trainable_params": 221683, "ms_per_message": 1.03}
+{"method": "frozen", "k": 5, "seed": 2, "n_train": 385, "accuracy": 0.7974, "macro_f1": 0.7954, "train_s": 4.6, "trainable_params": 29645, "ms_per_message": 16.48}
+{"method": "lora", "k": 5, "seed": 2, "n_train": 385, "accuracy": 0.7698, "macro_f1": 0.7696, "train_s": 404.6, "trainable_params": 361421, "ms_per_message": 17.93, "saved_bytes": 1461814, "steps": 390, "epochs": 30}
+{"method": "tfidf", "k": 10, "seed": 0, "n_train": 770, "accuracy": 0.6854, "macro_f1": 0.6858, "train_s": 1.3, "trainable_params": 352660, "ms_per_message": 1.34}
+{"method": "frozen", "k": 10, "seed": 0, "n_train": 770, "accuracy": 0.8545, "macro_f1": 0.8536, "train_s": 8.7, "trainable_params": 29645, "ms_per_message": 17.48}
+{"method": "lora", "k": 10, "seed": 0, "n_train": 770, "accuracy": 0.8403, "macro_f1": 0.8398, "train_s": 454.8, "trainable_params": 361421, "ms_per_message": 16.26, "saved_bytes": 1461814, "steps": 400, "epochs": 16}
+{"method": "full", "k": 10, "seed": 0, "n_train": 770, "accuracy": 0.8526, "macro_f1": 0.8523, "train_s": 455.2, "trainable_params": 22595021, "ms_per_message": 11.77, "saved_bytes": 90414286, "steps": 400, "epochs": 16}
+{"method": "tfidf", "k": 10, "seed": 1, "n_train": 770, "accuracy": 0.6834, "macro_f1": 0.6814, "train_s": 1.2, "trainable_params": 361515, "ms_per_message": 1.25}
+{"method": "frozen", "k": 10, "seed": 1, "n_train": 770, "accuracy": 0.8471, "macro_f1": 0.8462, "train_s": 9.2, "trainable_params": 29645, "ms_per_message": 17.19}
+{"method": "lora", "k": 10, "seed": 1, "n_train": 770, "accuracy": 0.8461, "macro_f1": 0.8465, "train_s": 465.8, "trainable_params": 361421, "ms_per_message": 16.6, "saved_bytes": 1461814, "steps": 400, "epochs": 16}
+{"method": "tfidf", "k": 10, "seed": 2, "n_train": 770, "accuracy": 0.6718, "macro_f1": 0.6675, "train_s": 1.0, "trainable_params": 352429, "ms_per_message": 1.33}
+{"method": "frozen", "k": 10, "seed": 2, "n_train": 770, "accuracy": 0.8526, "macro_f1": 0.8517, "train_s": 9.2, "trainable_params": 29645, "ms_per_message": 16.72}
+{"method": "lora", "k": 10, "seed": 2, "n_train": 770, "accuracy": 0.8432, "macro_f1": 0.8429, "train_s": 668.9, "trainable_params": 361421, "ms_per_message": 44.25, "saved_bytes": 1461814, "steps": 400, "epochs": 16}
+{"method": "tfidf", "k": 20, "seed": 0, "n_train": 1540, "accuracy": 0.7698, "macro_f1": 0.7674, "train_s": 4.1, "trainable_params": 569877, "ms_per_message": 3.39}
+{"method": "frozen", "k": 20, "seed": 0, "n_train": 1540, "accuracy": 0.8831, "macro_f1": 0.8821, "train_s": 38.6, "trainable_params": 29645, "ms_per_message": 44.08}
+{"method": "lora", "k": 20, "seed": 0, "n_train": 1540, "accuracy": 0.8773, "macro_f1": 0.8763, "train_s": 974.1, "trainable_params": 361421, "ms_per_message": 16.13, "saved_bytes": 1461814, "steps": 441, "epochs": 9}
+{"method": "tfidf", "k": 50, "seed": 0, "n_train": 3826, "accuracy": 0.8552, "macro_f1": 0.8547, "train_s": 7.6, "trainable_params": 1017555, "ms_per_message": 3.26}
+{"method": "frozen", "k": 50, "seed": 0, "n_train": 3826, "accuracy": 0.9136, "macro_f1": 0.9134, "train_s": 44.3, "trainable_params": 29645, "ms_per_message": 16.42}
+{"method": "lora", "k": 50, "seed": 0, "n_train": 3826, "accuracy": 0.9039, "macro_f1": 0.9037, "train_s": 576.9, "trainable_params": 361421, "ms_per_message": 16.29, "saved_bytes": 1461814, "steps": 480, "epochs": 4}
+{"method": "tfidf", "k": "all", "seed": 0, "n_train": 10003, "accuracy": 0.8938, "macro_f1": 0.8942, "train_s": 19.0, "trainable_params": 1817893, "ms_per_message": 4.51}
+{"method": "frozen", "k": "all", "seed": 0, "n_train": 10003, "accuracy": 0.9299, "macro_f1": 0.9298, "train_s": 175.8, "trainable_params": 29645, "ms_per_message": 23.5}
+{"method": "lora", "k": "all", "seed": 0, "n_train": 10003, "accuracy": 0.925, "macro_f1": 0.9251, "train_s": 2181.2, "trainable_params": 361421, "ms_per_message": 16.95, "saved_bytes": 1461814, "steps": 939, "epochs": 3}
+{"method": "full", "k": "all", "seed": 0, "n_train": 10003, "accuracy": 0.9321, "macro_f1": 0.9322, "train_s": 1264.3, "trainable_params": 22595021, "ms_per_message": 12.48, "saved_bytes": 90414286, "steps": 939, "epochs": 3}
